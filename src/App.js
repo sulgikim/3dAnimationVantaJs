@@ -1,0 +1,10 @@
+import VantaAnimation from "./VantaAnimation";
+import "./styles.css";
+
+export default function App() {
+  return (
+    <div className="App">
+      <VantaAnimation />
+    </div>
+  );
+}
